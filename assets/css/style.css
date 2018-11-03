@@ -1,0 +1,44 @@
+body {
+    background-image: radial-gradient( circle, red, rgba(255, 0, 0, 0.524),black); 
+}
+.jumbotron {
+    text-align: center;
+    background: black;
+    color: white;
+    text-shadow: 4px 4px red;
+    border: 1px solid white;
+    font-family: 'Faster One', cursive;
+}
+#trainTable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    font-family: 'Source Code Pro', monospace;
+}
+#currentTime {
+    background:black;
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+}
+.panel-default>.panel-heading {
+    background: black;
+    font-family: 'Source Code Pro', monospace;
+}
+.panel-title {
+    color: white;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+}
+.btn-primary {
+    background-color: black;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+}
+
+
+.form-control {
+    font-family: 'Source Code Pro', monospace;
+
+}
